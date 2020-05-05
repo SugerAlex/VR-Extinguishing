@@ -1,0 +1,3 @@
+1.新建带有初学者素材的VR蓝图项目；
+2.将Content下的ModularSchool文件夹复制到新建项目的Content下；
+3.在UE4中打开项目，找到素材包的\Content\ModularSchool\Scene\School_BulitData，双击，等构建完成后。点击左边的School Map，即可打开学校场景。

@@ -1,0 +1,435 @@
+﻿Log file open, 05/03/20 13:28:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.330496
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.197s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '127.0.0.1:4582'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE4/4.20.3/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.05.03-05.28.40:932][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.03-05.28.40:933][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.03-05.28.40:949][  0]LogHAL: Display: Platform has ~ 16 GB [17057243136 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.03-05.28.40:949][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.05.03-05.28.40:949][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.03-05.28.40:950][  0]LogInit: Computer: DESKTOP-BHGM3HS
+[2020.05.03-05.28.40:950][  0]LogInit: User: hasee
+[2020.05.03-05.28.40:950][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.03-05.28.40:950][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.03-05.28.40:950][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.03-05.28.40:950][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.03-05.28.40:950][  0]LogMemory: Process Physical Memory: 100.21 MB used, 100.22 MB peak
+[2020.05.03-05.28.40:950][  0]LogMemory: Process Virtual Memory: 91.01 MB used, 91.01 MB peak
+[2020.05.03-05.28.40:950][  0]LogMemory: Physical Memory: 8589.78 MB used,  7677.28 MB free, 16267.05 MB total
+[2020.05.03-05.28.40:950][  0]LogMemory: Virtual Memory: 4629.50 MB used,  7677.28 MB free, 134217728.00 MB total
+[2020.05.03-05.28.41:008][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.05.03-05.28.41:008][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.05.03-05.28.41:474][  0]LogStreaming: Display: Took  0.466s to InitEngineTextLocalization.
+[2020.05.03-05.28.41:474][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.03-05.28.41:615][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.03-05.28.41:615][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.03-05.28.42:106][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.03-05.28.42:106][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.03-05.28.42:182][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2020.05.03-05.28.42:182][  0]LogD3D11RHI:       2016/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.03-05.28.42:249][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.05.03-05.28.42:249][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.03-05.28.42:254][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.03-05.28.42:254][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.03-05.28.42:254][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.03-05.28.42:319][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.03-05.28.42:319][  0]LogD3D11RHI:     GPU DeviceId: 0x1427 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.03-05.28.42:319][  0]LogWindows: EnumDisplayDevices:
+[2020.05.03-05.28.42:319][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.05.03-05.28.42:321][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.05.03-05.28.42:322][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.05.03-05.28.42:323][  0]LogWindows:    3. 'NVIDIA GeForce GTX 965M' (P:0 D:0)
+[2020.05.03-05.28.42:325][  0]LogWindows:    4. 'NVIDIA GeForce GTX 965M' (P:0 D:0)
+[2020.05.03-05.28.42:327][  0]LogWindows:    5. 'NVIDIA GeForce GTX 965M' (P:0 D:0)
+[2020.05.03-05.28.42:328][  0]LogWindows:    6. 'NVIDIA GeForce GTX 965M' (P:0 D:0)
+[2020.05.03-05.28.42:329][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.03-05.28.42:329][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2020.05.03-05.28.42:329][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2020.05.03-05.28.42:329][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2020.05.03-05.28.42:329][  0]LogRHI: Texture pool is 1411 MB (70% of 2016 MB)
+[2020.05.03-05.28.42:373][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.03-05.28.42:385][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.03-05.28.42:389][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../MyProjects/MyProject/Intermediate/Shaders/WorkingDirectory/38272/).
+[2020.05.03-05.28.42:390][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/TempFile/UnrealShaderWorkingDir/64D7B73341C994E18AEA17BFEADA5B0A/'.
+[2020.05.03-05.28.42:963][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.05.03-05.28.42:982][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.05.03-05.28.43:001][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.05.03-05.28.43:017][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.05.03-05.28.43:036][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.05.03-05.28.43:052][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.05.03-05.28.43:069][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.05.03-05.28.43:087][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.05.03-05.28.43:095][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-05.28.43:195][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.05.03-05.28.43:266][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.03-05.28.43:266][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.03-05.28.43:296][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.03-05.28.43:296][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.03-05.28.43:313][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.05.03-05.28.43:332][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.05.03-05.28.43:347][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.05.03-05.28.43:363][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.05.03-05.28.43:376][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.03-05.28.43:376][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.03-05.28.43:465][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.03-05.28.43:465][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.03-05.28.43:465][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.03-05.28.44:411][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.03-05.28.44:491][  0]LogDerivedDataCache: Loaded boot cache 0.08s 86MB C:/Users/hasee/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.05.03-05.28.44:491][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hasee/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2020.05.03-05.28.44:491][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../MyProjects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.03-05.28.44:491][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.03-05.28.44:491][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../MyProjects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.03-05.28.44:491][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.03-05.28.44:508][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.03-05.28.44:523][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.03-05.28.44:523][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.03-05.28.44:523][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.03-05.28.44:548][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.03-05.28.44:551][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.03-05.28.44:553][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.03-05.28.44:658][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2020.05.03-05.28.45:092][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.03-05.28.45:276][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.05.03-05.28.45:282][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.05.03-05.28.45:282][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.03-05.28.45:282][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.03-05.28.45:282][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.05.03-05.28.45:307][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1110078900)
+[2020.05.03-05.28.45:947][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.074482 seconds
+[2020.05.03-05.28.45:958][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2020.05.03-05.28.45:958][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2020.05.03-05.28.45:958][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.03-05.28.47:285][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.03-05.28.47:300][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.03-05.28.47:485][  0]SourceControl: Source control is disabled
+[2020.05.03-05.28.47:485][  0]SourceControl: Source control is disabled
+[2020.05.03-05.28.47:487][  0]SourceControl: Source control is disabled
+[2020.05.03-05.28.47:488][  0]SourceControl: Source control is disabled
+[2020.05.03-05.28.47:698][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.03-05.28.47:891][  0]LogOcInput: OculusInput pre-init called
+[2020.05.03-05.28.47:979][  0]LogEngine: Initializing Engine...
+[2020.05.03-05.28.47:981][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.03-05.28.47:983][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.03-05.28.47:983][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.03-05.28.47:983][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.03-05.28.47:983][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.03-05.28.48:277][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.03-05.28.48:299][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.03-05.28.48:341][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-05.28.48:427][  0]LogInit: FAudioDevice initialized.
+[2020.05.03-05.28.48:428][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.03-05.28.48:639][  0]LogDerivedDataCache: Saved boot cache 0.21s 86MB C:/Users/hasee/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.05.03-05.28.48:651][  0]LogInit: Texture streaming: Enabled
+[2020.05.03-05.28.48:677][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.03-05.28.48:703][  0]LogInit: Transaction tracking system initialized
+[2020.05.03-05.28.48:744][  0]BlueprintLog: New page: Editor Load
+[2020.05.03-05.28.48:871][  0]LocalizationService: Localization service is disabled
+[2020.05.03-05.28.49:336][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.03-05.28.49:336][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.03-05.28.49:336][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.05.03-05.28.49:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.03-05.28.49:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.03-05.28.49:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.03-05.28.49:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.03-05.28.49:504][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/MyProjects/MyProject/Content/' took 0.02s
+[2020.05.03-05.28.49:504][  0]SourceControl: Source control is disabled
+[2020.05.03-05.28.49:504][  0]Cmd: MAP LOAD FILE="../../../../../MyProjects/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.03-05.28.49:505][  0]LightingResults: New page: Lighting Build
+[2020.05.03-05.28.49:507][  0]MapCheck: New page: Map Check
+[2020.05.03-05.28.49:508][  0]LightingResults: New page: Lighting Build
+[2020.05.03-05.28.49:719][  0]LogAIModule: Creating AISystem for world StartupMap
+[2020.05.03-05.28.49:731][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.03-05.28.49:758][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.03-05.28.49:852][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.824ms to complete.
+[2020.05.03-05.28.49:852][  0]LogFileHelpers: Loading map 'StartupMap' took 0.348
+[2020.05.03-05.28.50:037][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-05.28.50:045][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-05.28.50:054][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-05.28.50:064][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-05.28.50:072][  0]LogCollectionManager: Loaded 0 collections in 0.002106 seconds
+[2020.05.03-05.28.50:119][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/MyProjects/MyProject/Saved/Collections/' took 0.01s
+[2020.05.03-05.28.50:119][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/MyProjects/MyProject/Content/Developers/hasee/Collections/' took 0.01s
+[2020.05.03-05.28.50:119][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/MyProjects/MyProject/Content/Collections/' took 0.01s
+[2020.05.03-05.28.50:119][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.05.03-05.28.50:131][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2572 classes and 603 folders.
+[2020.05.03-05.28.50:139][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.03-05.28.50:218][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.03-05.28.50:226][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.05.03-05.28.50:256][  0]LogSlate: Took 0.000471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.03-05.28.50:260][  0]LogSlate: Took 0.000448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.03-05.28.50:268][  0]LogSlate: Took 0.000477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.03-05.28.50:389][  0]LogRenderer: Reallocating scene render targets to support 928x460 Format 26 NumSamples 1 (Frame:1).
+[2020.05.03-05.28.50:688][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.03-05.28.50:688][  0]LogLoad: (Engine Initialization) Total time: 12.16 seconds
+[2020.05.03-05.28.50:688][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.03-05.28.50:729][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.03-05.28.50:767][  0]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.03-05.28.50:863][  2]LogAssetRegistry: Asset discovery search completed in 6.2278 seconds
+[2020.05.03-05.28.50:867][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.05.03-05.28.50:868][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000109 seconds (updated 0 objects)
+[2020.05.03-05.28.51:839][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.03-05.28.54:720][223]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.03-05.28.54:738][223]LogAssetEditorManager: Opening Asset editor for MapBuildDataRegistry /Game/VirtualRealityBP/Maps/StartupMap_BuiltData.StartupMap_BuiltData
+[2020.05.03-05.28.56:790][339]LogSlate: Window 'StartupMap_BuiltData - Generic Asset Editor' being destroyed
+[2020.05.03-05.28.56:805][339]LogSlate: Window 'StartupMap_BuiltData - Generic Asset Editor' being destroyed
+[2020.05.03-05.29.16:800][420]LogTexture: Display: Building textures: T_BlackBoard_D (AutoDXT, 1024X1024)
+[2020.05.03-05.29.16:800][420]LogTexture: Display: Building textures: T_Papers (AutoDXT, 2048X2048)
+[2020.05.03-05.29.22:012][420]LogTexture: Display: Building textures: T_Printer_N (BC5, 4096X4096)
+[2020.05.03-05.29.22:012][420]LogTexture: Display: Building textures: T_Chair_D (AutoDXT, 4096X4096)
+[2020.05.03-05.29.22:012][420]LogTexture: Display: Building textures: T_BigTable_D (AutoDXT, 4096X4096)
+[2020.05.03-05.29.22:012][420]LogTexture: Display: Building textures: T_Ceiling_D (AutoDXT, 2048X2048)
+[2020.05.03-05.29.22:012][420]LogTexture: Display: Building textures: T_DarkWood_D (DXT1, 2048X2048)
+[2020.05.03-05.29.22:012][420]LogTexture: Display: Building textures: T_Printer_MT (AutoDXT, 4096X4096)
+[2020.05.03-05.29.22:012][420]LogMaterial: Display: Missing cached shader map for material M_Bricks, compiling. 
+[2020.05.03-05.29.22:148][420]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.05.03-05.29.22:148][420]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.05.03-05.29.22:148][420]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.05.03-05.29.22:148][420]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.05.03-05.29.22:148][420]LogMaterial: Display: Missing cached shader map for material M_BlackBoardDecal, compiling. 
+[2020.05.03-05.29.22:944][420]LogTexture: Display: Building textures: T_Printer_D (AutoDXT, 4096X4096)
+[2020.05.03-05.29.22:944][420]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2020.05.03-05.29.22:944][420]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 5171146752
+	 AvailableVirtual 140728346746880
+	     UsedPhysical 3460255744
+	 PeakUsedPhysical 3575529472
+	      UsedVirtual 3685810176
+	  PeakUsedVirtual 3955359744
+[2020.05.03-05.29.22:944][420]Allocator Stats for TBB: (not implemented)
+[2020.05.03-05.29.22:944][420]LogWindows: Windows GetLastError: 操作成功完成。 (0)
+[2020.05.03-05.29.27:188][420]LogTexture: Display: Building textures: T_Projector_MT (AutoDXT, 2048X2048)
+[2020.05.03-05.29.27:188][420]LogTexture: Display: Building textures: T_Projector_D (AutoDXT, 2048X2048)
+[2020.05.03-05.29.27:188][420]LogTexture: Display: Building textures: T_smallProps_N (BC5, 2048X2048)
+[2020.05.03-05.29.27:188][420]LogTexture: Display: Building textures: T_smallProps_MT (AutoDXT, 2048X2048)
+[2020.05.03-05.29.27:188][420]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/temp.C41A56A04DB74BDE13EF10B983B2748A (磁盘空间不足。)
+[2020.05.03-05.29.27:188][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/temp.C41A56A04DB74BDE13EF10B983B2748A!
+[2020.05.03-05.29.27:188][420]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/temp.C5287BBA4492304A01F5A6B3FF4D3920 (磁盘空间不足。)
+[2020.05.03-05.29.27:188][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/temp.C5287BBA4492304A01F5A6B3FF4D3920!
+[2020.05.03-05.29.27:188][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_34DC3F9043686B9971E51EA5E07AA__44DC507D93CD466F65C395F7964E5D1B654DD142.
+[2020.05.03-05.29.27:188][420]LogTexture: Display: Building textures: T_smallProps_E (AutoDXT, 2048X2048)
+[2020.05.03-05.29.27:188][420]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/4/temp.8FC6429C46889A0B2D766784C1CCD753 (磁盘空间不足。)
+[2020.05.03-05.29.27:188][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/4/temp.8FC6429C46889A0B2D766784C1CCD753!
+[2020.05.03-05.29.27:188][420]LogMaterial: Display: Missing cached shader map for material M_Papers, compiling. 
+[2020.05.03-05.29.30:833][420]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/4/temp.E9F8D8F542BA83205101F39EC99C3E59 (磁盘空间不足。)
+[2020.05.03-05.29.30:833][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/4/temp.E9F8D8F542BA83205101F39EC99C3E59!
+[2020.05.03-05.29.30:834][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_582A357C407CDA5DBAEC7AA57B87C__37F8C0924C429F88EE42BEA7D8EBF8B99FA6FF0C.
+[2020.05.03-05.29.30:834][420]LogShaderCompilers: Display: Shaders left to compile 116
+[2020.05.03-05.29.30:834][420]LogTexture: Display: Building textures: T_smallProps_D (AutoDXT, 2048X2048)
+[2020.05.03-05.29.30:834][420]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/temp.9BB10CCC401ED2B607B8A59BFA785DFC (磁盘空间不足。)
+[2020.05.03-05.29.30:834][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/temp.9BB10CCC401ED2B607B8A59BFA785DFC!
+[2020.05.03-05.29.30:834][420]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/temp.65EF8210486EAD1C3A284D912ACEFE3C (磁盘空间不足。)
+[2020.05.03-05.29.30:834][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/temp.65EF8210486EAD1C3A284D912ACEFE3C!
+[2020.05.03-05.29.30:834][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_0B9A9E5841ED42536C69C898C758D__01F45F45E9ABE6A7A5A4F9B8EB4F97A73B66B397.
+[2020.05.03-05.29.30:834][420]LogTexture: Display: Building textures: T_DoorsHallway_N (BC5, 2048X2048)
+[2020.05.03-05.29.30:834][420]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/2/temp.144F565941CC574E0629F8AF265B5753 (磁盘空间不足。)
+[2020.05.03-05.29.30:834][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/2/temp.144F565941CC574E0629F8AF265B5753!
+[2020.05.03-05.29.30:834][420]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/3/temp.0CAEA5974383D8694E1C49B39EAA24E8 (磁盘空间不足。)
+[2020.05.03-05.29.30:834][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/3/temp.0CAEA5974383D8694E1C49B39EAA24E8!
+[2020.05.03-05.29.30:834][420]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/2/temp.A3BD679D4D79E7E546C11185878D259F (磁盘空间不足。)
+[2020.05.03-05.29.30:834][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/2/temp.A3BD679D4D79E7E546C11185878D259F!
+[2020.05.03-05.29.30:834][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_743179464663B6DF6C91B68B21DF280F___8FB9A60FEBEF5927EB48AEDCCC269CF6CE5054FA.
+[2020.05.03-05.29.30:834][420]LogFileManager: Error: Error writing to file: C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/3/temp.CEB3E2C64D7D8511FD6E79A97E464E55 (磁盘空间不足。)
+[2020.05.03-05.29.30:834][420]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/hasee/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/3/temp.CEB3E2C64D7D8511FD6E79A97E464E55!
+[2020.05.03-05.29.30:834][420]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_743179464663B6DF6C91B68B21DF280F___CDAAF48352EEEE78496D997F6226CC7A96FEB4FF.
+[2020.05.03-05.29.30:834][420]LogThreadingWindows: Error: Runnable thread PoolThread 12 crashed.
+[2020.05.03-05.29.30:834][420]LogWindows: Error: === Critical error: ===
+[2020.05.03-05.29.30:834][420]LogWindows: Error: 
+[2020.05.03-05.29.30:834][420]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMemory.cpp] [Line: 193] 
+[2020.05.03-05.29.30:834][420]LogWindows: Error: Ran out of memory allocating 268435456 bytes with alignment 0
+[2020.05.03-05.29.30:834][420]LogWindows: Error: 
+[2020.05.03-05.29.30:834][420]LogWindows: Error: 
+[2020.05.03-05.29.30:834][420]LogWindows: Error: [Callstack] 0x00007ffa1c6ea799 KERNELBASE.dll!UnknownFunction []
+[2020.05.03-05.29.30:834][420]LogWindows: Error: [Callstack] 0x00007ff9e5866850 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.03-05.29.30:834][420]LogWindows: Error: [Callstack] 0x00007ff9cd5d62fc UE4Editor-Core.dll!UnknownFunction []
+[2020.05.03-05.29.30:834][420]LogWindows: Error: [Callstack] 0x00007ff9cd5651db UE4Editor-Core.dll!UnknownFunction []
+[2020.05.03-05.29.30:834][420]LogWindows: Error: [Callstack] 0x00007ff9cd43f564 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.03-05.29.30:834][420]LogWindows: Error: [Callstack] 0x00007ff9cd4b810f UE4Editor-Core.dll!UnknownFunction []
+[2020.05.03-05.29.30:834][420]LogWindows: Error: [Callstack] 0x00007ff9cd4b8343 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.03-05.29.30:834][420]LogWindows: Error: [Callstack] 0x00007ff9f2144ffb UE4Editor-ImageCore.dll!UnknownFunction []
+[2020.05.03-05.29.30:834][420]LogWindows: Error: [Callstack] 0x00007ff9f214419b UE4Editor-ImageCore.dll!UnknownFunction []
+[2020.05.03-05.29.30:834][420]LogWindows: Error: [Callstack] 0x00007ff9f2141878 UE4Editor-ImageCore.dll!UnknownFunction []
+[2020.05.03-05.29.30:834][420]LogWindows: Error: [Callstack] 0x00007ff9b8e2e945 UE4Editor-TextureCompressor.dll!UnknownFunction []
+[2020.05.03-05.29.30:834][420]LogWindows: Error: [Callstack] 0x00007ff9b8e29df9 UE4Editor-TextureCompressor.dll!UnknownFunction []
+[2020.05.03-05.29.30:835][420]LogWindows: Error: [Callstack] 0x00007ff9b8e28689 UE4Editor-TextureCompressor.dll!UnknownFunction []
+[2020.05.03-05.29.30:835][420]LogWindows: Error: [Callstack] 0x00007ff9c337470f UE4Editor-Engine.dll!UnknownFunction []
+[2020.05.03-05.29.30:835][420]LogWindows: Error: [Callstack] 0x00007ff9c3389d20 UE4Editor-Engine.dll!UnknownFunction []
+[2020.05.03-05.29.30:835][420]LogWindows: Error: [Callstack] 0x00007ff9c33135c1 UE4Editor-Engine.dll!UnknownFunction []
+[2020.05.03-05.29.30:835][420]LogWindows: Error: [Callstack] 0x00007ff9c331341e UE4Editor-Engine.dll!UnknownFunction []
+[2020.05.03-05.29.30:835][420]LogWindows: Error: [Callstack] 0x00007ff9cd4c38b5 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.03-05.29.30:835][420]LogWindows: Error: [Callstack] 0x00007ff9cd836b7c UE4Editor-Core.dll!UnknownFunction []
+[2020.05.03-05.29.30:835][420]LogWindows: Error: [Callstack] 0x00007ff9cd8317c7 UE4Editor-Core.dll!UnknownFunction []
+[2020.05.03-05.29.30:835][420]LogWindows: Error: [Callstack] 0x00007ffa1d227bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.03-05.29.30:835][420]LogWindows: Error: [Callstack] 0x00007ffa1edcce51 ntdll.dll!UnknownFunction []
+[2020.05.03-05.29.30:835][420]LogWindows: Error: 
+[2020.05.03-05.29.30:835][420]LogWindows: Error: Crash in runnable thread PoolThread 12
+[2020.05.03-05.29.30:888][420]LogExit: Executing StaticShutdownAfterError
+[2020.05.03-05.29.30:888][420]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.05.03-05.29.30:899][420]Log file closed, 05/03/20 13:29:30
