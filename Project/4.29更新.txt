@@ -1,5 +1,0 @@
-1. 构建基本项目模板（VR MAX_QUALITY NO_STARTER_COMPONENT）
-2. 创建人物键盘控制蓝图（可在无VR设备情况下控制人物，步骤为设置input输入，修改Pawn的父类为Chracter，添加相关键盘响应蓝图）
-（WASD移动，QE瞬移，ZC旋转视角）
-3. 设置“MotionControllerMap”为默认初始地图
-4. 上传了代码，目前上传了Config和Content文件夹和.upproject，其余文件夹可被重建
